@@ -1,21 +1,6 @@
-## Hi there 👋
+## Hello World! 👋
 
-<!--
-**itsfikree/itsfikree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Halo, saya Budi Anto Siregar 👋
+###  👋
 
 Saya adalah **Kapal Api Laut** yang fokus membangun antarmuka web yang cepat, responsif, dan mudah diakses. Saat ini sedang mendalami ekosistem React dan TypeScript.
 
@@ -35,4 +20,31 @@ Saya adalah **Kapal Api Laut** yang fokus membangun antarmuka web yang cepat, re
 ---
 
 #### 📊 Statistik GitHub
-![Statistik GitHub Budi](https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=tokyonight)
+![Statistik GitHub Budi](https://github-readme-stats.vercel.app/api?username=itsfikree&show_icons=true&theme=tokyonight)
+
+## Contributions
+
+Private contribution visibility is controlled by GitHub profile settings. The graph below is generated from visible profile activity instead of third-party stats cards.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsfikree/itsfikree/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsfikree/itsfikree/output/github-snake.svg" />
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/itsfikree/itsfikree-KAMU/output/github-snake-dark.svg" />
+</picture>
+
+
+---
+<!--
+**itsfikree/itsfikree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
