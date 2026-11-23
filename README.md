@@ -15,6 +15,7 @@ Saya adalah seorang mahasiswa lulusan **Engineering Physics** yang fokus membang
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMi45NyAxLjc1aC0xLjk0TDUuMTggMjIuMjVoMy43NmwxLjM1LTQuODZoMy40MmwxLjM1IDQuODZoMy43NkwxMi45NyAxLjc1em0tMS45NiAxMi41bDEuMDItMy43NyAxLjAyIDMuNzdoLTIuMDR6Ii8+PC9zdmc+)
 ![AutoCAD](https://img.shields.io/badge/#E51050?style=for-the-badge&logo=AutoCAD&logoColor=white)
 
 ---
