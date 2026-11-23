@@ -1,30 +1,26 @@
 ## Hello World! 👋
 
-###  👋
+### Perkenalkan, Saya Fikriansyah Ridwan 👋
 
-Saya adalah **Kapal Api Laut** yang fokus membangun antarmuka web yang cepat, responsif, dan mudah diakses. Saat ini sedang mendalami ekosistem React dan TypeScript.
+Saya adalah seorang mahasiswa lulusan **Engineering Physics** yang fokus membangun portofolio yang baik untuk berbagai proyek yang saya lakukan.
 
-- 🔭 **Sedang mengerjakan:** Aplikasi manajemen keuangan pribadi berbasis web.
-- 🌱 **Sedang belajar:** Next.js, Tailwind CSS, dan dasar-dasar Docker.
-- 💬 **Tanya saya tentang:** HTML, CSS, JavaScript, dan desain UI dasar.
-- 📫 **Hubungi saya:** [budi@email.com](mailto:budi@email.com) | [LinkedIn](https://linkedin.com)
+- 🔭 **Sedang mengerjakan:** Skripsi terkait Baterai Carnot.
+- 🌱 **Sedang belajar:** CoolProp dan Managerial.
+- 💬 **Tanya saya tentang:** apapun.
+- 📫 **Hubungi saya:** [149235545+itsfikree@users.noreply.github.com](mailto:149235545+itsfikree@users.noreply.github.com) | [LinkedIn](https://www.linkedin.com/in/fikriansyahridwan/)
 
 ---
 
 #### 🛠️ Bahasa & Teknologi
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/#E51050?style=for-the-badge&logo=AutoCAD&logoColor=white)
 
 ---
 
-#### 📊 Statistik GitHub
-![Statistik GitHub Budi](https://github-readme-stats.vercel.app/api?username=itsfikree&show_icons=true&theme=tokyonight)
-
-## Contributions
-
-Private contribution visibility is controlled by GitHub profile settings. The graph below is generated from visible profile activity instead of third-party stats cards.
+### Kontribusi di GitHub
+Berusaha berkontribusi dengan konsisten sesuai dengan kapasitas dan keahlian.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsfikree/itsfikree/output/github-snake-dark.svg" />
