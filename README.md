@@ -7,7 +7,7 @@ Saya adalah seorang mahasiswa lulusan **Engineering Physics** yang fokus membang
 - 🔭 **Sedang mengerjakan:** Skripsi terkait Baterai Carnot.
 - 🌱 **Sedang belajar:** CoolProp dan Managerial.
 - 💬 **Tanya saya tentang:** apapun.
-- 📫 **Hubungi saya:** [149235545+itsfikree@users.noreply.github.com](mailto:149235545+itsfikree@users.noreply.github.com) | [LinkedIn](https://www.linkedin.com/in/fikriansyahridwan/)
+- 📫 **Hubungi saya:** [LinkedIn](https://www.linkedin.com/in/fikriansyahridwan/)
 
 ---
 
